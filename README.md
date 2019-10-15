@@ -1,6 +1,6 @@
-﻿# [Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us)
+# [Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Helios Design  
+[Static Site](https://appseed.us/static-site) prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Helios Design  
 
 - Design: HTML5up Helios
 - [11ty](https://www.11ty.io/)
@@ -14,13 +14,14 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Helios
 
 <br />
 
-![Eleventy Html5UP Helios - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-helios-intro.gif?raw=true)
+![Eleventy Html5UP Helios - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-intro.gif)
 
 <br />
 
 ## App Links
 
-- [Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us) - Live DEMO
+- **[Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us)** - Live DEMO
+- **[Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios)** - Product Page
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios) - provided by **AppSeed**
