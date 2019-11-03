@@ -1,4 +1,4 @@
-# [Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios)
+# [Static Site Eleventy Helios](https://appseed.us/static-site/eleventy-html5up-helios)
 
 [Static Site](https://appseed.us/static-site) prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Helios Design  
 
@@ -18,13 +18,6 @@
 
 <br />
 
-## App Links
-
-- **[Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us)** - Live DEMO
-- **[Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios)** - Product Page
-
-<br />
-
 ## How to use it
 
 - Build from sources:
@@ -40,6 +33,23 @@ $ # app is running on http://localhost:4000
 
 <br />
 
+## Want more? Go PRO!
+
+<br />
+
+| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
+| --- | --- | --- |
+| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+<br />
+
+## [Static Site Eleventy Helios](https://appseed.us/static-site/eleventy-html5up-helios) Links
+
+- **[Eleventy Html5UP Helios](https://eleventy-html5up-helios.appseed.us)** - Live DEMO
+- **[Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios)** - Product Page
+
+<br />
+
 ## License & Credits
 
 - [CCY 3.0](https://html5up.net/license) - inherited from Html5Up
@@ -48,4 +58,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Helios](https://appseed.us/static-site/eleventy-html5up-helios) - provided by **AppSeed**
+[Static Site Eleventy Helios](https://appseed.us/static-site/eleventy-html5up-helios) - provided by **AppSeed**
