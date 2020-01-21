@@ -25,7 +25,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Eleventy Html5UP Helios - Static Site Starter.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-intro.gif)
+![Eleventy Html5UP Helios - Static Site Starter.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-helios-screen.png)
 
 <br />
 
